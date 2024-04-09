@@ -1,7 +1,6 @@
 # Biostatistics-MCQs
 50+ Solved Basic Biostatistics MCQs With Answers
-
-This collection of Biostatistics MCQs will help you to assess your understanding of key biostatistical concepts. Biostatistics MCQs are an essential tool for medical students, as it allows them to analyse and interpret data in order to make informed decisions about patient care.
+This collection of <a href="https://iubians.com/2023/11/biostatistics-mcqs.html">Biostatistics MCQs</a>  will help you to assess your understanding of key biostatistical concepts. Biostatistics MCQs are an essential tool for medical students, as it allows them to analyse and interpret data in order to make informed decisions about patient care.
 
 Biostatistics MCQs Topics
 Descriptive Statistics
@@ -10,6 +9,8 @@ Sampling
 Statistical Comparison of Groups
 Correlation and Regression
 Biostatistics MCQs On Descriptive Statistics
+
+
 1.What is the measure of central tendency that is most influenced by outliers?
 A. Mean
 B. Median
@@ -150,7 +151,7 @@ B. Showing the relationship between two variables
 C. Representing the parts of a whole
 D. Comparing the mean and median
 
-<a href="https://iubians.com/2023/11/biostatistics-mcqs.html">Biostatistics MCQs On Sampling</a>
+Biostatistics MCQs On Sampling
 21.What is the main goal of random sampling in biostatistics?
 
 A. Reduce bias
@@ -366,3 +367,4 @@ C. The correlation is perfect
 D. The sample size is too small
 
 The field of biostatistics combines biology, statistics, and medical research. In essence, it is the study of data analysis and interpretation in the biological sciences utilising statistical techniques. Below is a summary of the main ideas:
+<a href="https://iubians.com/2023/11/biostatistics-mcqs.html"> Read More </a>
