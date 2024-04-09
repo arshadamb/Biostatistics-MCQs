@@ -150,7 +150,7 @@ B. Showing the relationship between two variables
 C. Representing the parts of a whole
 D. Comparing the mean and median
 
-Biostatistics MCQs On Sampling
+<a href="https://iubians.com/2023/11/biostatistics-mcqs.html">Biostatistics MCQs On Sampling</a>
 21.What is the main goal of random sampling in biostatistics?
 
 A. Reduce bias
