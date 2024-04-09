@@ -12,6 +12,7 @@ Biostatistics MCQs On Descriptive Statistics
 
 
 1.What is the measure of central tendency that is most influenced by outliers?
+
 A. Mean
 
 B. Median
